@@ -1,6 +1,6 @@
 # Switch Reset v2
 
-A Python tool for authenticated factory reset over a serial console or SSH, with model-specific, documented recovery guides. Cisco Catalyst and HP ProCurve/AOS-Switch are the primary CLI profiles. Other profiles are best-effort command templates and must be checked against the exact model and software release.
+A Python tool for performing factory reset over a serial console. It can also reset configurations over serial or ssh. As I only have Cisco and HP Procurve devices other devices is untested.
 
 ## Safety and scope
 
